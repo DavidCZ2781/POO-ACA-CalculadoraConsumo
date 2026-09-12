@@ -7,13 +7,7 @@
     <packaging>jar</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <!-- Java 17: es una version LTS y esta disponible en cualquier equipo.
-             Antes decia 26, que es muy reciente: si el profesor tiene un JDK
-             mas antiguo, el proyecto ni siquiera abre en su computador. -->
         <maven.compiler.release>17</maven.compiler.release>
-        <!-- Clase que arranca la aplicacion. Antes apuntaba a
-             com.mycompany.calculadoradeconsumoelectrico.CalculadoradeConsumoElectrico,
-             que no existe en el proyecto. -->
         <exec.mainClass>Vista.VentanaPrincipal</exec.mainClass>
     </properties>
 </project>
