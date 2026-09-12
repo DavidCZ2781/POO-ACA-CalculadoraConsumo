@@ -1,4 +1,4 @@
-# Calculadora de Consumo Eléctrico — Energía Hogar S.A.S.
+# Calculadora de Consumo Eléctrico
 
 Aplicación de escritorio en Java (Swing) para registrar usuarios, calcular el
 valor de su consumo mensual de energía y clasificarlo según el nivel de uso.
